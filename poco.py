@@ -622,7 +622,7 @@ def random_gmail():
         banner()
         tl = str(len(user))
         print(f" \033[1;92mFROM      :\033[1;92mBangladesh")
-		print(f' \033[1;92mAGENTS    : '+str(len(ugen)))
+		print(f' AGENTS   : '+str(len(ugen)))
 		print(f" \033[1;92mCRACK ID  :\033[38;5;192m {GREEN}"+tl)
 		print(f' \033[1;92mSIM CODE  :\033[1;92m {kode} ')
 		print(f" \033[1;92mMETHUD    :\033[1;92m{doamin}")
